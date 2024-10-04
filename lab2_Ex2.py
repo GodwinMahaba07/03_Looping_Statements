@@ -1,7 +1,7 @@
 
 #Godwin Anton M. Mahaba
 #BSCpe 2-2
-#DSA: Lab 2 - Exercise 1
+#DSA: Lab 2 - Exercise 2
 
 
 def cube_elements():
